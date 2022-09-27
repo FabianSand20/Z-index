@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+}
+
+section {
+  border: 2px rgb(255, 255, 255);
+  border-style: solid;
+  padding: 32px;
+  margin: 80px auto;
+  width: 400px;
+  height: 440px;
+}
+
+div {
+  border-radius: 7px;
+  font-size: 22px;
+  line-height: 100px;
+  padding: 16px;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+
+.uno {
+  color: white;
+  background: orangered;
+  top: 50px;
+  left: 50px;
+}
+
+.dos {
+  color: white;
+  background: skyblue;
+  top: 10px;
+  left: 100px;
+}
+
+.tres {
+  color: white;
+  background: green;
+  bottom: 35px;
+  left: 150px;
+}
